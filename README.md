@@ -1,7 +1,7 @@
 # Safes
 
 ![N|Solid](https://dev-yakuza.github.io/assets/images/category/react-native/background.png)
-![N|Solid](https://github.com/pranjaljain0/safes/blob/master/assets/icon/Icon.png)
+![N|Solid](https://github.com/pranjaljain0/safes/blob/master/assets/icon/icon_76pt.png)
 
 Safes a react native application for conversion of text to morse code.
 
